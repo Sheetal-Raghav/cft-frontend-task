@@ -1,0 +1,45 @@
+{
+    "id": "root",
+    "type": "folder",
+    "name": "root",
+    "children": [
+        {
+            "id": "folder-1",
+            "type": "folder",
+            "name": "Documents",
+            "children": [
+                {
+                    "id": "file-1",
+                    "type": "file",
+                    "name": "resume.txt",
+                    "content": "This is my resume..."
+                },
+                {
+                    "id": "file-2",
+                    "type": "file",
+                    "name": "notes.md",
+                    "content": "# Notes\n- item 1\n- item 2"
+                }
+            ]
+        },
+        {
+            "id": "folder-2",
+            "type": "folder",
+            "name": "Pictures",
+            "children": [
+                {
+                    "id": "file-3",
+                    "type": "file",
+                    "name": "sunset.jpg",
+                    "content": "(binary image placeholder)"
+                }
+            ]
+        },
+        {
+            "id": "file-4",
+            "type": "file",
+            "name": "todo.txt",
+            "content": "- buy milk\n- build app"
+        }
+    ]
+}
